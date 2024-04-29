@@ -1,25 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "Kwon Roh",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    role: "Product designer @ SFOM, Thymedesk",
+    bio: "디자인을 통해 사람들이 보다 내다볼 수 있도록. 기술에 관심이 많고, 임팩트를 만들 수 있는 디자이너를 지향합니다.",
+    email: "hello@stile.im",
+    linkedin: "",
+    github: "sepowered",
+    instagram: "stile.im",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `SFOM - Store for Minecraft`,
+      href: "https://play.google.com/store/apps/details?id=com.newidea.mcpestore&pcampaignid=web_share",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "stileBlog",
+    description: "stileBlog by Kwonhoo - 주로 프로덕트 디자인을 다룹니다.",
   },
 
   // CONFIG configration (required)
